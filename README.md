@@ -1,0 +1,1 @@
+//Using the same url i.e https://restcountries.com/v3.1/all printing all countries names, regions, sub-region and populations
